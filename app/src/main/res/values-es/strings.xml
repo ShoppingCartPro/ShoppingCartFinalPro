@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="button1">Entrar</string>
+    <string name="enter">Entra tu Presupuesto</string>
+    <string name="enterBudget">Entra tu Presupuesto Aqui</string>
+    <string name="givenBudget">Billetera</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="scan">Escanear</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="enter">Enter Your Budget</string>
+    <string name="button1">Enter</string>
+    <string name="title_activity_scan_items" translatable="false">ScanItems</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="givenBudget">Wallet:</string>
+    <string name="scan">Scan</string>
+    <string name="enterBudget">Enter Your Budget Here</string>
+    <string name="title_activity_confirm_item" translatable="false">ConfirmItem</string>
+    <string name="title_activity_scan_item" translatable="false">ScanItem</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
